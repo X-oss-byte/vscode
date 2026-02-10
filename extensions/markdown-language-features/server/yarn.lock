@@ -133,10 +133,10 @@ vscode-languageserver@^8.1.0:
   dependencies:
     vscode-languageserver-protocol "3.17.3"
 
-vscode-markdown-languageservice@^0.4.0-alpha.5:
-  version "0.4.0-alpha.5"
-  resolved "https://registry.yarnpkg.com/vscode-markdown-languageservice/-/vscode-markdown-languageservice-0.4.0-alpha.5.tgz#5a50dab354d07a4fb93b16cea43968f7a578c2b9"
-  integrity sha512-Pf183mpyAQ5WlsqXKlzSzPUACRlXxcEFGpn+vYsAx5m7r26hqtBTYHpTKzidIPqh6Xy797VGbtrOkvuwBmcCTg==
+vscode-markdown-languageservice@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/vscode-markdown-languageservice/-/vscode-markdown-languageservice-0.4.0.tgz#1ccca383703d38043b58e096fd3224796a2b2ab5"
+  integrity sha512-3C8pZlC0ofHEYmWwHgenxL6//XrpkrgyytrqNpMlft46q9uBxSUfcXtEGt7wIDNLWsvmgqPqHBwEnBFtLwrWFA==
   dependencies:
     "@vscode/l10n" "^0.0.10"
     node-html-parser "^6.1.5"
